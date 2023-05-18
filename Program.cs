@@ -36,6 +36,6 @@ namespace Actividad
             Console.WriteLine("El resultado de la operación es: " + resultado);
             Console.ReadLine();
             Console.WriteLine("HACERLO EN CLASE ^^ ");
+            Console.WriteLine("FINNNNN");
         }
-    }
 }
