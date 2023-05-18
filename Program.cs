@@ -6,6 +6,7 @@ namespace Actividad
     {
         static void Main(string[] args)
         {
+            /*
             double num1, num2;
             Console.WriteLine("Calculadora");
             Console.WriteLine("Ingrese el primer número:");
@@ -35,6 +36,8 @@ namespace Actividad
             }
             Console.WriteLine("El resultado de la operación es: " + resultado);
             Console.ReadLine();
+            */
+            Console.WriteLine("HACERLO EN CLASE ^^ ");
         }
     }
 }
