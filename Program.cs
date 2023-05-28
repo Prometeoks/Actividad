@@ -34,8 +34,7 @@ namespace Actividad
                     break;
             }
             Console.WriteLine("El resultado de la operación es: " + resultado);
-            Console.WriteLine("OwO");
-            Console.ReadLine();
+            Console.WriteLine("----- EL PROGRAMA FINALIZARA... -----");
         }
     }
 }
